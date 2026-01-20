@@ -4,9 +4,8 @@ this project is sample project, i have made it to avoid repetition and practice 
 
 
 # * Tech stack*
-*numpy
-
-*if-elif-else
+* numpy
+* if-elif-else
 * loop
 * function
 * operators
