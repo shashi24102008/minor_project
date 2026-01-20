@@ -3,7 +3,7 @@ this project is sample project, i have made it to avoid repetition and practice 
 
 
 
-# * Tech stack*
+# *Tech stack*
 * numpy
 * if-elif-else
 * loop
